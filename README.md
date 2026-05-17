@@ -1,19 +1,16 @@
-Olá ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Meu nome é Angel Sales
+Olá, Meu nome é Angel Sales ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ===================================================================================================================================
 
-Desenvolvedor Web
+Engenheiro de Software
 -----------------
 
-Seja bem-vindo(a) a minha rede! 
-Aqui eu compartilho conhecimento, espero que eu possa te ajudar!
-Se você encontrar algo que não concorde, ou que esteja errado, me mande uma mensagem para que possamos corrigir, desde já agradeço!
+Seja bem-vindo(a) a minha rede!
 
 * 🌍  Eu estou no Brasil
 * ✉️  Você pode entrar em contato comigo por [angelgabrieldesouzasales](mailto:angelgabrieldesouzasales)
 * 🧠  Lifelong Learning
 
 ### Skills
-
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
